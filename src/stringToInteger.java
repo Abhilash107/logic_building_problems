@@ -15,7 +15,7 @@ public class stringToInteger {
             // res = (int) (res + Integer.parseInt(s.charAt(i).toString()) * Math.pow(10, i)); 
         }
 
-        return res;
+        return res;      
         
     }
 
