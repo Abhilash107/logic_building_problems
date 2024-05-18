@@ -9,6 +9,7 @@ public class test {
 
 }
 
+
 interface myInterface {
     void display(String name);
 }
